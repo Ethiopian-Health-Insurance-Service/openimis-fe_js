@@ -18,5 +18,5 @@ jobs:
         password: ${{ secrets.GITHUB_TOKEN }}
     - name: Build the openimis backend  Docker image
       run: |
-         docker build . --tag ghcr.io/Ethiopian-Health-Insurance-Service/openimis-fe:${{ github.event.inputs.tag }}
-         docker push ghcr.io/Ethiopian-Health-Insurance-Service/openimis-fe:${{ github.event.inputs.tag }}
+         docker build . --tag ghcr.io/ethiopian-health-insurance-service/openimis-fe:${{ github.event.inputs.tag }}
+         docker push ghcr.io/ethiopian-health-insurance-service/openimis-fe:${{ github.event.inputs.tag }}
