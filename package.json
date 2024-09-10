@@ -54,7 +54,8 @@
     "@openimis/fe-tasks_management": "git+https://github.com/openimis/openimis-fe-tasks_management_js.git#develop",
     "@openimis/fe-opensearch_reports": "git+https://github.com/openimis/openimis-fe-opensearch_reports_js.git#develop",
     "@openimis/fe-grievance": "git+https://github.com/openimis/openimis-fe-grievance_js.git#develop",
-    "@openimis/fe-payroll": "git+https://github.com/openimis/openimis-fe-payroll_js.git#develop"
+    "@openimis/fe-payroll": "git+https://github.com/openimis/openimis-fe-payroll_js.git#develop",
+    "@openimis/fe-language_am_et": "git+https://github.com/Ethiopian-Health-Insurance-Service/openimis-fe-language_am_et_js.git#main"
   },
   "scripts": {
     "start": "react-scripts start",

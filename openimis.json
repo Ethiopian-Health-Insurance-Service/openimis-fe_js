@@ -125,6 +125,10 @@
         {
           "name": "PayrollModule",
           "npm": "@openimis/fe-payroll@git+https://github.com/openimis/openimis-fe-payroll_js.git#develop"
+        },
+        {
+            "name": "LanguageAmEtModule",
+            "npm": "@openimis/fe-language_am_et@git+https://github.com/Ethiopian-Health-Insurance-Service/openimis-fe-language_am_et_js.git#main"
         }
 	]
 }
