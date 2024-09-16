@@ -15,6 +15,14 @@
 			],
 			"intl": "fr-FR",
 			"fileNames": "fr"
+		},
+        {
+			"languages": [
+				"am_et",
+				"am-ET"
+			],
+			"intl": "am-ET",
+			"fileNames": "am_et"
 		}
 	],
 	"modules": [
