@@ -40,7 +40,7 @@
         },
             {
             "name": "InsureeModule",
-            "npm": "@openimis/fe-insuree@git+https://github.com/openimis/openimis-fe-insuree_js.git#develop"
+            "npm": "@openimis/fe-insuree@git+https://github.com/Ethiopian-Health-Insurance-Service/openimis-fe-insuree_js.git#develop-ethiopia"
         },
             {
             "name": "MedicalModule",
