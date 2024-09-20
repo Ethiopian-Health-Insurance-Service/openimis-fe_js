@@ -12,12 +12,12 @@ const theme = createTheme({
     },
   },
   palette: {
-    primary: { main: "#006273" },
+    primary: { main: "#296cb8" },
     secondary: { main: "#fff" },
     error: { main: "#801a00" },
     text: {
-      primary: "#006273",
-      secondary: "#006273", // HACK FOR material-table hardcoded toolbar!,
+      primary: "#296cb8",
+      secondary: "#296cb8", // HACK FOR material-table hardcoded toolbar!,
       second: "#fff",
       error: "#801a00",
     },
@@ -54,7 +54,7 @@ const theme = createTheme({
     drawer: {
       width: 300,
       fontSize: 16,
-      backgroundColor:"#006273"
+      backgroundColor:"#296cb8"
     },
     appBar: {
       fontSize: 16,
@@ -69,20 +69,20 @@ const theme = createTheme({
   paper: {
     paper: {
       margin: 10,
-      backgroundColor: "#dbeef0",
+      backgroundColor: "#DCEBF5",
     },
     header: {
-      color: "#006273",
-      backgroundColor: "#b7d4d8",
+      color: "#0e2544",
+      backgroundColor: "#8cc3e4",
     },
     message: {
-      backgroundColor: "#b7d4d8",
+      backgroundColor: "#DCEBF5",
     },
     title: {
       padding: 10,
       fontSize: 24,
-      color: "#006273",
-      backgroundColor: "#b7d4d8",
+      color: "#0e2544",
+      backgroundColor: "#8cc3e4",
     },
     action: {
       padding: 5,
@@ -93,7 +93,7 @@ const theme = createTheme({
     },
     body: {
       marginTop: 10,
-      backgroundColor: "#dbeef0",
+      backgroundColor: "#DCEBF5",
     },
     item: {
       padding: 10,
@@ -103,17 +103,17 @@ const theme = createTheme({
     title: {
       padding: 10,
       fontWeight: 500,
-      color: "#006273",
-      backgroundColor: "#b7d4d8",
+      color: "#0e2544",
+      backgroundColor: "#8cc3e4",
     },
     header: {
-      color: "#006273",
+      color: "#0e2544",
     },
     headerAction: {
       padding: 5,
     },
     row: {
-      color: "#006273",
+      color: "#0e2544",
       align: "center",
       "&:hover": {
         background: "rgba(0, 0, 0, 0.12) !important",
@@ -132,7 +132,7 @@ const theme = createTheme({
       align: "center",
     },
     secondaryHighlightedRow: {
-      backgroundColor: "#cbedf2",
+      backgroundColor: "#b1cad8",
     },
     secondaryHighlightedCell: {},
     highlightedAltRow: {},
@@ -147,10 +147,10 @@ const theme = createTheme({
       align: "center",
     },
     footer: {
-      color: "#006273",
+      color: "#0e2544",
     },
     pager: {
-      color: "#006273",
+      color: "#0e2544",
     },
   },
   form: {
@@ -158,13 +158,13 @@ const theme = createTheme({
   },
   formTable: {
     table: {
-      color: "#006273",
+      color: "#0e2544",
     },
     actions: {
-      color: "#006273",
+      color: "#0e2544",
     },
     header: {
-      color: "#006273",
+      color: "#0e2544",
       align: "center",
     },
   },
@@ -177,12 +177,12 @@ const theme = createTheme({
       padding: 0,
     },
     primaryButton: {
-      backgroundColor: "#006273",
+      backgroundColor: "#296cb8",
       color: "#fff",
       fontWeight: "bold",
       "&:hover": {
-        backgroundColor: alpha("#006273", 0.5),
-        color: "#006273",
+        backgroundColor: alpha("#296cb8", 0.5),
+        color: "#296cb8",
       },
     },
     secondaryButton: {},
