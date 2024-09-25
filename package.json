@@ -39,7 +39,7 @@
     "@openimis/fe-payer": "git+https://github.com/openimis/openimis-fe-payer_js.git#develop",
     "@openimis/fe-contribution": "git+https://github.com/openimis/openimis-fe-contribution_js.git#develop",
     "@openimis/fe-payment": "git+https://github.com/openimis/openimis-fe-payment_js.git#develop",
-    "@openimis/fe-claim": "git+https://github.com/openimis/openimis-fe-claim_js.git#develop",
+    "@openimis/fe-claim": "git+https://github.com/Ethiopian-Health-Insurance-Service/openimis-fe-claim_js.git#develop-ethiopia",
     "@openimis/fe-claim_batch": "git+https://github.com/openimis/openimis-fe-claim_batch_js.git#develop",
     "@openimis/fe-admin": "git+https://github.com/openimis/openimis-fe-admin_js.git#develop",
     "@openimis/fe-tools": "git+https://github.com/openimis/openimis-fe-tools_js.git#develop",
