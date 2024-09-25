@@ -72,7 +72,7 @@
         },
             {
             "name": "ClaimModule",
-            "npm": "@openimis/fe-claim@git+https://github.com/openimis/openimis-fe-claim_js.git#develop"
+            "npm": "@openimis/fe-claim@git+https://github.com/Ethiopian-Health-Insurance-Service/openimis-fe-claim_js.git#develop-ethiopia"
         },
             {
             "name": "ClaimBatchModule",
